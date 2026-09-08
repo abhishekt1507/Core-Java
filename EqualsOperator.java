@@ -7,5 +7,6 @@ public class EqualsOperator {
         String str4 = new String("Java");
         System.out.println(str1 == str2);
         System.out.println(str3 == str4);
+
     }
 }
